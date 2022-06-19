@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.65e165b0.js",
-    "index.html": "/index.html",
-    "main.65e165b0.js.map": "/static/js/main.65e165b0.js.map"
+    "main.js": "/clone-menu-stripe/static/js/main.2ce803d9.js",
+    "index.html": "/clone-menu-stripe/index.html",
+    "main.2ce803d9.js.map": "/clone-menu-stripe/static/js/main.2ce803d9.js.map"
   },
   "entrypoints": [
-    "static/js/main.65e165b0.js"
+    "static/js/main.2ce803d9.js"
   ]
 }
